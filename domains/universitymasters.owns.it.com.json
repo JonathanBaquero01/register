@@ -1,5 +1,5 @@
 {
-  "description": "Commercial-style website (not real) to test how a 3D bird animation would look using JavaScript.",
+  "description": "Public academic support site for students, with guides, resources, service information, frequently asked questions, and contact channels.",
   "domain": "owns.it.com",
   "subdomain": "universitymasters",
   "owner": {
@@ -11,3 +11,4 @@
   },
   "proxied": false
 }
+
